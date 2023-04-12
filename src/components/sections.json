@@ -1,0 +1,16 @@
+{
+    "data": {
+        "section1": {
+            "naslov": "Naslovni Tekst Je Trenurno Tu I Bice Naslov",
+            "txt": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat magni ex est commodi, consequuntur quam illum autem suscipit architecto itaque corporis corrupti culpa libero accusamus similique ea animi reiciendis cupiditate ducimus minus in necessitatibus saepe officia facere. Eveniet excepturi, natus, molestiae sit provident placeat debitis delectus totam mollitia inventore odit?",
+            "imgUrl": "src/assets/image1.jpg",
+            "altTxt": "Woman making da bread"
+        },
+        "section2": {
+            "naslov": "Naslovni Tekst Je Trenurno Tu I Bice Naslov",
+            "txt": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat magni ex est commodi, consequuntur quam illum autem suscipit architecto itaque corporis corrupti culpa libero accusamus similique ea animi reiciendis cupiditate ducimus minus in necessitatibus saepe officia facere. Eveniet excepturi, natus, molestiae sit provident placeat debitis delectus totam mollitia inventore odit?",
+            "imgUrl": "src/assets/9814.jpg",
+            "altTxt": "Woman making da bread"
+        }
+    }
+}

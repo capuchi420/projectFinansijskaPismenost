@@ -1,0 +1,101 @@
+@media only screen and (min-width: 600px)
+    header
+        div.content
+            h1
+                font-size: 3rem
+
+            p
+                font-size: 1.1rem
+
+    section
+        margin: 0 2rem 0
+        display: grid
+        grid-template-columns: repeat(2, auto)
+        column-gap: 20px
+        justify-content: center
+        align-content: center
+
+@media only screen and (min-width: 768px)
+    header
+        div.content
+            h1
+                font-size: 4rem
+
+            p
+                font-size: 1.2rem
+
+    div.sectionImgL, div.sectionImgR
+        max-width: 80%
+        margin: 5rem auto
+
+    section
+        margin: 0 2rem 0
+        display: grid
+        grid-template-columns: repeat(3, auto)
+        column-gap: 20px
+        
+    div.section
+        p
+            max-width: 900px
+
+        img
+            max-width: 450px
+
+@media only screen and (min-width: 1366px)
+    header
+        div.content
+            h1
+                font-size: 5rem
+
+            p
+                font-size: 2rem
+
+    div.sectionImgL, div.sectionImgR
+        max-width: 80%
+        margin: 5rem auto
+        grid-template-rows: 1fr
+        grid-template-columns: 40% 60%
+        
+        div.txt
+            display: flex
+            flex-direction: column
+            align-content: center
+            justify-content: center
+
+            h1
+                font-size: 2.3rem
+
+            p
+                font-size: 1.3rem
+
+        div.img
+            img
+                width: 100%
+
+    div.sectionImgL
+        grid-template-columns: 60% 40%
+        div.img
+            order: -1
+
+    div.section
+        p
+            max-width: 1100px
+
+        img
+            max-width: 450px
+
+@media only screen and (min-width: 1920px)
+    header
+        div.content
+            h1
+                font-size: 6rem
+
+            p
+                font-size: 2rem
+
+    div.sectionImgL, div.sectionImgR
+        div.txt
+            h1
+                font-size: 3rem
+            p
+                font-size: 2rem 

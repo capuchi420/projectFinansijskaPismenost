@@ -1,0 +1,124 @@
+{
+    "data": [
+        {
+            "id": "1",
+            "imgUrl": "src/assets/5862.jpg",
+            "altTxt": "Ikonica",
+            "naslov": "Lorem, ipsum. 1",
+            "opis": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, optio?",
+            "content": [
+                {
+                    "txt": "Ide gas nikada<br />nece stati aaaaaaaaaaaaaaaaaaaaaaa",
+                    "img": "src/assets/5862.jpg",
+                    "alt": "AAAAAAA"
+                },
+                {
+                    "txt": "BBBBBBBBBBBBBBBBBBBBBBBBBBBBB",
+                    "img": "src/assets/9814.jpg",
+                    "alt": "AAAAAAA"
+                },
+                {
+                    "txt": "CCCCCCCCCCCCCCCCCCCCCCCCCC",
+                    "img": "src/assets/image1.jpg",
+                    "alt": "AAAAAAA"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "imgUrl": "src/assets/5862.jpg",
+            "altTxt": "Ikonica",
+            "naslov": "Lorem, ipsum. 2",
+            "opis": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, optio?",
+            "content": [
+                {
+                    "txt": "GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGG",
+                    "img": "src/assets/5862.jpg",
+                    "alt": "AAAAAAA"
+                },
+                {
+                    "txt": "HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH",
+                    "img": "src/assets/9814.jpg",
+                    "alt": "AAAAAAA"
+                },
+                {
+                    "txt": "JJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJJ",
+                    "img": "src/assets/image1.jpg",
+                    "alt": "AAAAAAA"
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "imgUrl": "src/assets/5862.jpg",
+            "altTxt": "Ikonica",
+            "naslov": "Lorem, ipsum. 3",
+            "opis": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, optio?",
+            "content": [
+                {
+                    "txt": "QQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQQ",
+                    "img": "src/assets/5862.jpg",
+                    "alt": "AAAAAAA"
+                },
+                {
+                    "txt": "WWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWWW",
+                    "img": "src/assets/9814.jpg",
+                    "alt": "AAAAAAA"
+                },
+                {
+                    "txt": "EEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE",
+                    "img": "src/assets/image1.jpg",
+                    "alt": "AAAAAAA"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "imgUrl": "src/assets/5862.jpg",
+            "altTxt": "Ikonica",
+            "naslov": "Lorem, ipsum. 4",
+            "opis": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, optio?",
+            "content": [
+                {
+                    "txt": "UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU",
+                    "img": "src/assets/5862.jpg",
+                    "alt": "AAAAAAA"
+                },
+                {
+                    "txt": "PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP",
+                    "img": "src/assets/9814.jpg",
+                    "alt": "AAAAAAA"
+                },
+                {
+                    "txt": "8===============D",
+                    "img": "src/assets/image1.jpg",
+                    "alt": "AAAAAAA"
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "imgUrl": "src/assets/5862.jpg",
+            "altTxt": "Ikonica",
+            "naslov": "Lorem, ipsum. 5",
+            "opis": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam, optio?",
+            "content": [
+                {
+                    "txt": "UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU",
+                    "img": "src/assets/5862.jpg",
+                    "alt": "AAAAAAA"
+                },
+                {
+                    "txt": "PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPP",
+                    "img": "src/assets/9814.jpg",
+                    "alt": "AAAAAAA"
+                },
+                {
+                    "txt": "8===============D",
+                    "img": "src/assets/image1.jpg",
+                    "alt": "AAAAAAA"
+                }
+            ]
+        }
+    ]
+}
