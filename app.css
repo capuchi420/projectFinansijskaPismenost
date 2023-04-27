@@ -89,6 +89,9 @@ nav h1 a {
   color: #fff;
   font-family: "Ourfit", sans-serif;
 }
+nav h1 a span {
+  color: #ff9d16;
+}
 
 video {
   position: absolute;
@@ -160,7 +163,17 @@ div.card p {
 }
 
 div.card.done {
-  background-color: #1f1e28;
+  position: relative;
+}
+div.card.done::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  opacity: 0.6;
+  background-color: #4d4d4d;
 }
 
 footer {
@@ -171,6 +184,9 @@ footer {
 footer h1 {
   font-family: "Outfit", sans-serif;
   margin-top: 1rem;
+}
+footer h1 span {
+  color: #ff9d16;
 }
 footer p {
   font-family: "Roboto", sans-serif;

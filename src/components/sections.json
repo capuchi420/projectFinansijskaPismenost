@@ -1,14 +1,14 @@
 {
     "data": {
         "section1": {
-            "naslov": "Naslovni Tekst Je Trenurno Tu I Bice Naslov",
-            "txt": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat magni ex est commodi, consequuntur quam illum autem suscipit architecto itaque corporis corrupti culpa libero accusamus similique ea animi reiciendis cupiditate ducimus minus in necessitatibus saepe officia facere. Eveniet excepturi, natus, molestiae sit provident placeat debitis delectus totam mollitia inventore odit?",
+            "naslov": "Zašto je finanskijska pismenost bitna?",
+            "txt": "Finansijska pismenost je od vitalnog značaja za mlade jer im pruža osnovne veštine za upravljanje novcem, koje su neophodne u svakodnevnom životu. Mladi koji su finansijski pismeni imaju veće šanse da postanu finansijski nezavisni i ostvare svoje dugoročne ciljeve, kao što su stambeni krediti, putovanja, investicije i školovanje. Takođe, finansijska pismenost pomaže mladima da se izbore sa dugovima, izbegnu prevaru i donose informisane odluke o svojim finansijama. Kroz razvijanje finansijske pismenosti, mladi mogu da se osnaže i preuzmu kontrolu nad svojim finansijskim budućnostima. To je ključni korak ka uspešnom i stabilnom finansijskom životu.",
             "imgUrl": "src/assets/image1.jpg",
             "altTxt": "Woman making da bread"
         },
         "section2": {
-            "naslov": "Naslovni Tekst Je Trenurno Tu I Bice Naslov",
-            "txt": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Repellat magni ex est commodi, consequuntur quam illum autem suscipit architecto itaque corporis corrupti culpa libero accusamus similique ea animi reiciendis cupiditate ducimus minus in necessitatibus saepe officia facere. Eveniet excepturi, natus, molestiae sit provident placeat debitis delectus totam mollitia inventore odit?",
+            "naslov": "CashMindset",
+            "txt": "CashMindset je vaš online vodič za finansijsku nezavisnost! Naš sajt vam nudi obrazovne resurse koji će vam pomoći da razumete kako upravljati novcem, štedeti, investirati i ostvariti svoje finansijske ciljeve. Bez obzira da li ste početnik ili već iskusni u finansijskim temama, CashMindset vam nudi jednostavan i praktičan pristup finansijskoj pismenosti. Pridružite nam se i postanite majstor svog novčanika!",
             "imgUrl": "src/assets/9814.jpg",
             "altTxt": "Woman making da bread"
         }

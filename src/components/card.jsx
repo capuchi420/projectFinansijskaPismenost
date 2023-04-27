@@ -7,7 +7,6 @@ function Card(props){
             <img src={props.imgUrl} alt={props.altTxt} />
             <h1>{props.naslov}</h1>
             <p>{props.opis}</p>
-            {(props.done && <div className="x"></div>)}
         </div>
     );
 };

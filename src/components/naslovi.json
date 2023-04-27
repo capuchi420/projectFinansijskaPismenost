@@ -2,28 +2,32 @@
     "data": [
         {
             "id": "0",
-            "naslov": "Header Neki Kao, Naslov I Tako To!",
-            "desc": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Reprehenderit laboriosam quos vero nam repellat quo vitae autem optio aperiam ipsam."
+            "naslov": "Uči i zarađuj: Finansijska pismenost za uspešan život!",
+            "desc": ""
         },
         {
             "id": "1",
-            "naslov": "Lorem, ipsum. 1"
+            "naslov": "Osnove ulaganja"
         },
         {
             "id": "2",
-            "naslov": "Lorem, ipsum. 2"
+            "naslov": "Ti i Novac"
         },
         {
             "id": "3",
-            "naslov": "Lorem, ipsum. 3"
+            "naslov": "Društvo i Novac"
         },
         {
             "id": "4",
-            "naslov": "Lorem, ipsum. 4"
+            "naslov": "Industrijski igrači"
         },
         {
             "id": "5",
-            "naslov": "Lorem, ipsum. 5"
+            "naslov": "Korporativne finansije"
+        },
+        {
+            "id": "6",
+            "naslov": "Osnove trgovanja"
         }
     ]
 }
