@@ -19,7 +19,7 @@ for(let i = 0; i < naslovi.data.length; i++){
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <video id="background" autoPlay loop muted poster='src/assets/poster.jpg'>
-      <source src='src/assets/video.mp4' type='video/mp4'/>
+      <source src='assets/video.mp4' type='video/mp4'/>
     </video>
     <NavBar />
     <Hero {...pass}/>
