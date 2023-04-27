@@ -2,204 +2,204 @@
     "data": [
         {
             "id": "1",
-            "imgUrl": "public/assets/1.jpg",
+            "imgUrl": "/assets/1.jpg",
             "altTxt": "Ikonica",
             "naslov": "Osnove ulaganja",
             "opis": "Šta je investicioni portfolio? Akcije kompanije, akcije, akcionari, rizik / nagrada",
             "content": [
                 {
                     "txt": "Portfolio se sastoji od svih finansijskih ulaganja koje je osoba ili kompanija napravila. Portfolio obično uključuje niz sredstava kao što su mešavina gotovine, nekretnina, akcija, obveznica, zajedničkih fondova, roba i kriptovaluta. Investitori ili portfolio menadžeri često obezbeđuju da investicije budu diversifikovane na način da „nisu sva jaja u istoj korpi“. Međutim, u zavisnosti od finansijskog plana osobe, sastav tog portfelja može uključivati rizičniju ili konzervativniju imovinu. Portfolio treba stalno da se revidira kako bi se izmerio u odnosu na specifične ciljeve, ekonomske faktore i druga razmatranja koja mogu uticati na njegov učinak.",
-                    "img": "src/assets/1-1.jpg",
+                    "img": "/assets/1-1.jpg",
                     "alt": "Investment portfolio"
                 },
                 {
                     "txt": "Sva preduzeća su sastavljena od akcija, koje su finansijske hartije od vrednosti koje predstavljaju vlasništvo kompanije. Investitori su u mogućnosti da kupe akcije ukupnog kapitala kompanije (akcije), što im daje delimično vlasništvo (procenat) kompanije u obliku imovine. Investitori kupuju i prodaju svoje akcije u kompaniji na osnovu fluktuacija kako bi pokušali da ostvare profit. Investitori obično pokušavaju da kupe akcije kompanija koje su u dobrom finansijskom položaju ili imaju visoka očekivanja za rast u nadi da će zaraditi dobar prinos. Većina akcija kompanija se trguje na berzama širom sveta. Kupac ne mora biti pojedinac; akcije preduzeća mogu kupiti i druge institucije preduzeća.",
-                    "img": "src/assets/1-2.jpg",
+                    "img": "/assets/1-2.jpg",
                     "alt": "Shares"
                 },
                 {
                     "txt": "Izraz \"kapital\" se odnosi na vlasnički interes koji akcionari imaju u kompaniji. Vlasnički kapital je ukupan procenat koji investitor drži u kompaniji, obično u obliku akcija. Povezuje se sa akcijama jer akcije predstavljaju procentualno vlasništvo u kompaniji, a izdavanje akcija (prodaja vlasništva) je jedan od najčešćih načina na koji kompanije prikupljaju kapital (novac). Kompanije prodaju svoj kapital da bi prikupile sredstva za finansiranje poslovanja i rasta. Vlasnici se odriču dela svog kapitala da bi finansirali svoje poslovne planove. Kada investitori kupuju akcije, oni kupuju udeo u kompaniji, što ih čini akcionarima. Ako kompanija bude uspešna, investitori će moći da dele profit. Sa druge strane, ako je kompanija neuspešna, vrednost kapitala investitora je u opasnosti.",
-                    "img": "src/assets/1-3.jpg",
+                    "img": "/assets/1-3.jpg",
                     "alt": "Equity"
                 },
                 {
                     "txt": "Kada kupite akcije u kompaniji, postajete akcionar. Kao akcionar, vi ste delimični vlasnik kompanije, što znači da imate „udeo“ u uspehu ili neuspehu kompanije. Akcionari ne odgovaraju za obaveze društva. Ako preduzeće ode u stečaj, poverioci nemaju pravo da ciljaju imovinu akcionara. Međutim, kada kompanija likvidira svoju imovinu, obični akcionari su poslednji koji primaju bilo kakav prihod. Redosled likvidacije se odvija na sledeći način: poverioci, vlasnici obveznica, povlašćeni akcionari zatim obični akcionari. Iako postoje prednosti da postanete akcionar u kompaniji, postoji i nekoliko rizika za svakog investitora.",
-                    "img": "src/assets/1-4.jpg",
+                    "img": "/assets/1-4.jpg",
                     "alt": "Shareholders"
                 },
                 {
                     "txt": "Razumevanje rizika/nagrade omogućava trgovcima i investitorima da odrede svoju toleranciju na rizik. Investitori sa visokim rizikom obično imaju visoke nagrade, dok oni sa niskim rizikom imaju tendenciju da generišu niske prinose. Izbor strategije ulaganja zavisi od tolerancije investitora na rizik/nagrada. Oni koji imaju toleranciju na visok rizik obično se odlučuju za rizičnije tipove imovine, kao što su akcije i imaju tendenciju da ostvare veći prinos zbog preuzimanja većeg rizika. S druge strane, konzervativni investitori mogu izabrati nižerizične hartije od vrednosti, kao što su obveznice koje generišu skromne, ali možda i relativno doslednije prinose.",
-                    "img": "src/assets/1-5.jpg",
+                    "img": "/assets/1-5.jpg",
                     "alt": "Risk / Reward"
                 }
             ]
         },
         {
             "id": "2",
-            "imgUrl": "public/assets/2.png",
+            "imgUrl": "/assets/2.png",
             "altTxt": "Ikonica",
             "naslov": "Ti i Novac",
             "opis": "Lične finansije, želje i potrebe, budžetiranje, fond za hitne slučajeve, finansijski ciljevi",
             "content": [
                 {
                     "txt": "Lične finansije su sve o odgovornosti prema vašim finansijskim resursima (tj. novcu). Sve što zaradite, potrošite i uštedite efikasno doprinosi vašem opštem razumevanju finansijskog upravljanja. Mnogim pojedincima ovaj koncept može izgledati jednostavno, a nadamo se da je i za vas. Nažalost, nedostatak odgovarajućeg razumevanja vaše finansijske situacije i načina na koje efikasno upravljate svojim resursima može dovesti do prekomerne potrošnje i posledično do dugova. Naravno, život se sastoji od življenja, a ponekad to uključuje i trošenje malo više na sebe i svoje rođake. Međutim, važno je da imate na umu svoje dugoročne ciljeve, a ne da ih zamenite kratkoročnom srećom. Imajte na umu da skoro svaka odluka koju donesete u toku dana ima uticaj na prihode, troškove, štednju, investicije i zaštitu imovine.",
-                    "img": "src/assets/2-1.jpg",
+                    "img": "/assets/2-1.jpg",
                     "alt": "Personal Finance"
                 },
                 {
                     "txt": "Razlikovanje između vaših želja i potreba je veština za koju je potrebno vreme da se savlada. Mnogi ljudi uživaju u jutarnjoj kafi, a možda čak i tvrde da im je potrebna da bi funkcionisali. Međutim, kafa od 5 dolara iz Starbucks-a ili domaća kafa će vam dati isti krajnji rezultat. Da biste efikasno upravljali svojom finansijskom situacijom, važno je da uvek razmotrite slične alternative vašim potencijalnim kupovinama. Pažnja! Vaše svakodnevne odluke snažno utiču na vašu finansijsku situaciju. Stan koji izaberete da iznajmite, prodavnice u kojima kupujete, koliko često jedete vani, pa čak i način prevoza će uticati na vaše finansije. Naučiti da svoje želje odvojite od svojih potreba dugoročno će pozitivno uticati na vaše finansijsko blagostanje.",
-                    "img": "src/assets/2-2.jpg",
+                    "img": "/assets/2-2.jpg",
                     "alt": "Wants & Needs"
                 },
                 {
                     "txt": "Budžetiranje je proces kreiranja plana vaših troškova. Podjednako je važno za vlade, kompanije i pojedince. Putem budžetiranja možete da uravnotežite svoje prihode i rashode – skoro kao lični „vodič“ za trošenje novca. Zahteva od vas da saberete svoj ukupan prihod, napravite listu mesečnih troškova i izvršite prilagođavanja u skladu sa tim kako biste potencijalno uštedeli nešto novca za budućnost ili u slučaju nužde. Kreiranje budžeta može biti korisno i pomoći će vam da shvatite kako da se ponašate prema sebi bez prekoračenja sopstvenih finansijskih sredstava. Odnos budžeta 50/30/20 je opšte pravilo za određivanje načina planiranja budžeta za potrebe, želje i uštede. Ovo pravilo je opisano na sledeći način: 50% prihoda osobe treba da ide na neophodne troškove, kao što su namirnice, kirija i režije. 30% prihoda se može potrošiti na „želje“ kao što su odmori, restorani i nova odeća. Ovo su takođe sredstva koja se koriste za pokrivanje dodatnih potreba ili povećanje budućih ušteda. Preostalih 20% treba usmeriti na dugoročnu štednju i ciljeve ulaganja.",
-                    "img": "src/assets/2-3.jpg",
+                    "img": "/assets/2-3.jpg",
                     "alt": "Budgeting"
                 },
                 {
                     "txt": "Fond za hitne slučajeve je oblik štednje koji odvajate za nepredviđene okolnosti. Može se koristiti za plaćanje hitnih slučajeva kao što su medicinski računi, popravke kuće i nezaposlenost. Posedovanje fonda za hitne slučajeve sprečiće vas da morate da uzimate velike kredite sa visokim kamatama, oslanjajući se na kreditne kartice za troškove u poslednjem trenutku ili nagomilavate nepotrebne dugove. Možete da izgradite fond za hitne slučajeve tako što ćete uštedeti određenu količinu novca svakog meseca - tako da radite polako i postojano. Razmislite o otvaranju štednog računa sa visokim prinosom kako bi sredstva bila sigurna i rasla. Cilj je da se uštede troškovi života od tri do šest meseci.",
-                    "img": "src/assets/2-4.jpg",
+                    "img": "/assets/2-4.jpg",
                     "alt": "Emergency Fund"
                 },
                 {
                     "txt": "Finansijski ciljevi su ciljevi koje postavljate za svoju ličnu zaradu, štednju i troškove. Finansijski ciljevi će se značajno razlikovati među pojedincima i obično zavise od starosti, prihoda i aspiracija u karijeri. Finansijski ciljevi igraju značajnu ulogu u poboljšanju odraslog života pojedinca; oni utiču na radnje koje preduzimate danas da bi vas pripremili za sutra. Neki primeri mogu uključivati kupovinu kuće, otplatu duga, štednju za odmor, stvaranje fonda za hitne slučajeve ili pokretanje novog posla. Kratkoročni ciljevi obično ne prelaze godinu dana. Za postizanje srednjoročnih ciljeva trebalo bi da bude potrebno između 2 i 5 godina. Dugoročni ciljevi često traju i do 10 godina.",
-                    "img": "src/assets/2-5.jpg",
+                    "img": "/assets/2-5.jpg",
                     "alt": "Financial Goals"
                 }
             ]
         },
         {
             "id": "3",
-            "imgUrl": "public/assets/3.png",
+            "imgUrl": "/assets/3.png",
             "altTxt": "Ikonica",
             "naslov": "Društvo i Novac",
             "opis": "Fiat novac, mikroekonomija, ponuda i potražnja, makroekonomija, ekonomija i investiranje",
             "content": [
                 {
                     "txt": "Danas novac funkcioniše kao važno sredstvo razmene, način skladištenja bogatstva i merilo vrednosti za društvo. Možda ne koristite termin u svom svakodnevnom životu, ali „fiat novac“ je termin koji se koristi da opiše kategoriju u koju spada vaš dolar. Fiat novac je državna valuta, koju podržava sama vlada, a ne bilo koja fizička roba. Sve priznate valute su klasifikovane kao fiat novac. Fiat novac kontrolišu centralne banke, dajući vladi veliku moć da kontroliše vrednost njihove valute određivanjem količine u opticaju. Vlada teoretski može izabrati da štampa novac po svojoj volji. Međutim, štampanje valute može dovesti do hiperinflacije – dramatične devalvacije potrošačke moći novca. Robe kao što su zlato, srebro i nafta tradicionalno su nudile zaštitu od pada vrednosti valuta.",
-                    "img": "src/assets/3-1.jpg",
+                    "img": "/assets/3-1.jpg",
                     "alt": "Fiat Money"
                 },
                 {
                     "txt": "Mikroekonomija proučava izbore koje donose pojedinačni akteri u privredi (kao što su ljudi i kompanije) i razmatra odluke koje kupci i prodavci donose kao odgovor na ekonomske promene i kako to kasnije utiče na ponudu i potražnju. Kada su u pitanju pojedinci, imamo samo ograničene resurse (npr. vreme i novac). Mikroekonomija stoga ispituje kako koristimo ove ograničene resurse za donošenje odluka i pomaže da se predvidi kako će se ljudi ponašati u određenim finansijskim ili ekonomskim situacijama koje mogu biti korisne u donošenju investicionih odluka. Na kraju krajeva, promene u ponudi i potražnji uvek će uticati na ponašanje potrošača.",
-                    "img": "src/assets/3-2.jpg",
+                    "img": "/assets/3-2.jpg",
                     "alt": "Microeconomics"
                 },
                 {
                     "txt": "Zakon ponude i potražnje vladao je tržištima svih vrsta kroz istoriju. Principal navodi da će, pod uslovom da su sve stvari jednake, sredstvo u nedostatku zahtevati višu cenu (tj. kupci će biti spremniji da je plate). U ovoj tržišnoj dinamici postoji pritisak i povlačenje. Prodavci žele da maksimiziraju profit i tako će nastaviti da povećavaju ponudu svog proizvoda sve dok tržište ne postane dovoljno zasićeno da ometa potražnju. Nasuprot tome, kada je ponuda retka, često se smatra da je vrednija. Prodavci mogu zahtevati višu cenu ako ima više potencijalnih kupaca koji se takmiče za retki proizvod, uslugu ili drugu imovinu. Ova dinamika jasno leži u osnovi akcije cena berze (ili bilo kog tržišta). Jednom kada je cena imovine značajno porasla, često dolazi do rasprodaje, pošto cena dostigne tačku u kojoj se smatra da je precenjena ili preskupa. Slično tome, kada cena neke imovine dramatično opadne, dolazi do tačke u kojoj se ona smatra dobrom vrednošću.",
-                    "img": "src/assets/3-3.jpg",
+                    "img": "/assets/3-3.jpg",
                     "alt": "Supply & Demand"
                 },
                 {
                     "txt": "Makroekonomija razmatra opšte zdravlje privrede (proizvodnju i potrošnju dobara i usluga unutar zemlje). Fokusira se na ekonomiju kao celinu i analizira kako njeni delovi međusobno deluju kako bi stvorili agregatni efekat. Ova grana ekonomije obuhvata stope zaposlenosti, inflaciju, bruto domaći proizvod (BDP), cene dobara i usluga i druge varijable koje zajedno opisuju ukupno stanje privrede. Za vlade, primarni cilj makroekonomske politike je razumevanje i poboljšanje životnog standarda svojih građana. Ovo se može uraditi podržavanjem i obezbeđivanjem zapošljavanja, regulisanjem inflacije i ulaganjem u infrastrukturu.",
-                    "img": "src/assets/3-4.jpg",
+                    "img": "/assets/3-4.jpg",
                     "alt": "Macroeconomics"
                 },
                 {
                     "txt": "Ekonomija igra ključnu ulogu u investiranju jer su kompanije direktno pogođene promenama u privredi. Kada investirate, važno je razumeti ekonomsku situaciju i u svetu i u svojoj zemlji. To može biti na makroekonomskom nivou (šira slika nacionalne i međunarodne politike i trendova) ili na mikroekonomskom nivou (interakcije na nivou pojedinca). Ako odlučite da investirate, želećete da razumete osnovne ekonomske koncepte kao što su ponuda i potražnja, pored bilo kog događaja koji može direktno uticati na ekonomiju kako biste pravilno upravljali vašim sadašnjim i budućim investicijama.",
-                    "img": "src/assets/3-5.jpg",
+                    "img": "/assets/3-5.jpg",
                     "alt": "Economics and Investing"
                 }
             ]
         },
         {
             "id": "4",
-            "imgUrl": "src/assets/4.png",
+            "imgUrl": "/assets/4.png",
             "altTxt": "Ikonica",
             "naslov": "Industrijski igrači",
             "opis": "Funkcije učesnika i sistema u finansijskoj industriji, finansijskih posrednika, finansijskih institucija, komercijalnih banaka, investicionih banaka, pojedinaca naspram institucionalnih investitora",
             "content": [
                 {
                     "txt": "Finansijski sektor se sastoji od složenog interaktivnog sistema koji igra ključnu ulogu u pomaganju kretanja novca između pojedinaca, kompanija i vlade. Ovaj visoko regulisani sektor obuhvata širok spektar industrija uključujući: banke, investicione usluge, osiguravajuća društva, poreske i računovodstvene firme, agencije za kreditni rejting. Glavne funkcije finansijskog sektora i njegovih aktera su da: pomažu ljudima da uštede novac za budućnost, pozajmljuju novac za trenutnu upotrebu, upravljaju rizicima, prikupljaju kapital, razmenjuju sredstva, trguju na osnovu informacija. Finansijski sektor je ključni igrač za ekonomiju jedne nacije. Omogućava pristup tokovima likvidnosti i kapitala. Ovaj živi eko-sistem olakšava protok novca od ljudi koji troše i ulažu u kompanije kojima je potreban kapital za rast, rad i proizvodnju dobara i usluga.",
-                    "img": "src/assets/4-1.jpg",
+                    "img": "/assets/4-1.jpg",
                     "alt": "Functions of Financial Industry Players and System"
                 },
                 {
                     "txt": "Finansijski posrednici su posrednici u finansijskoj transakciji. Neki od uobičajenih finansijskih posrednika uključuju: uzajamne fondove, penzione fondove, finansijske savetnike, komercijalne banke, investicione banke. Funkcija finansijskih posrednika je stvaranje efikasnosti. Oni obezbeđuju mehanizam u kome pojedinci ili korporacije sa viškom sredstava mogu da podele svoj kapital sa drugim pojedincima ili korporacijama kojima mogu biti potrebna ova sredstva. Finansijski posrednici mogu ponuditi niz usluga klijentima, uključujući kratkoročne i dugoročne kredite, skladištenje sredstava, osiguranje i investicije. Važno je napomenuti da finansijski posrednici nemaju direktna potraživanja prema sredstvima svojih klijenata.",
-                    "img": "src/assets/4-2.jpg",
+                    "img": "/assets/4-2.jpg",
                     "alt": "Financial Intermediaries"
                 },
                 {
                     "txt": "Finansijska institucija je svaka organizacija koja se bavi novcem i finansijskim transakcijama, kao što su investicije, depoziti, zajmovi ili razmena valuta. Finansijske institucije uključuju: banke, brokere, osiguravajuća društva, investicione dilere, poverilačka društva. Neke od najčešćih finansijskih usluga koje nudi ova vrsta institucija uključuju hipoteke na kuću, štedne račune i zajmove. Finansijske institucije igraju fundamentalnu ulogu u svakoj ekonomiji i moraju poštovati stroge propise.",
-                    "img": "src/assets/4-3.jpg",
+                    "img": "/assets/4-3.jpg",
                     "alt": "Financial Institutions"
                 },
                 {
                     "txt": "Komercijalne banke („banke“) nude potrošačima i malim i srednjim preduzećima osnovne bankarske usluge. Pojedinci i preduzeća mogu deponovati novac, otvoriti štedne račune, otvoriti tekuće račune, dobiti pristup kreditu, dobiti hipoteke, podnijeti zahtjev za kreditne kartice, dobiti mnoge druge finansijske pogodnosti. Banke pomažu u stvaranju likvidnosti, kapitala i kredita u privredi. Važno je napomenuti da su one za profitne institucije, zarađuju novac od raznih naknada klijenata i ostvarujući prihod od novca svojih klijenata koristeći ga za investicije i kredite. U principu, klijenti polažu svoj novac na svoj bankovni račun. Procenat deponovanog novca drži banka kao meru sigurnosti, a ostatak mogu pozajmiti drugi klijenti. Ovi drugi klijenti mogu da pozajmljuju u obliku kredita, kreditnih kartica, hipoteka ili drugih vrsta dužničkih instrumenata. Banke ostvaruju profit od kamata koje dobiju na kredite. Ove kamate su veće od onih koje klijenti plaćaju na svoje štedne račune.",
-                    "img": "src/assets/4-4.jpg",
+                    "img": "/assets/4-4.jpg",
                     "alt": "Commercial Banks"
                 },
                 {
                     "txt": "Investicione banke su finansijski posrednici koji preduzimaju finansijske transakcije u ime pojedinaca, kompanija i vlada. Učestvuju u složenim finansijskim transakcijama, uključujući: kotiranje kompanija na berzi, spajanja i akvizicije, dobijanje privatnog finansiranja. Investicione banke rade i kao posrednici i kao finansijski savetnici. Oni deluju kao posrednici između korporacija i finansijskih tržišta u složenim transakcijama i takođe nude usluge finansijskog savetovanja velikim investitorima. Neke investicione banke takođe imaju odeljenje za istraživanje koje proučava kompanije i njihove akcije i objavljuje izveštaje o njihovim izgledima. Oni naplaćuju naknade za pružanje svih ovih usluga pojedincima, preduzećima i vladama.",
-                    "img": "src/assets/4-5.jpg",
+                    "img": "/assets/4-5.jpg",
                     "alt": "Investment Banks"
                 },
                 {
                     "txt": "Postoje dva glavna tipa investitora koji učestvuju u finansijskoj industriji: institucionalni i individualni (ili maloprodajni) investitori. Jednostavno rečeno, institucionalni investitori su ljudi ili organizacije koji ulažu u ime svojih klijenata i trguju velikom količinom hartija od vrednosti, tako da uživaju niže naknade od pojedinačnih investitora. Neki primeri institucionalnih investitora su menadžeri novca, osiguravajuća društva, penzioni fondovi, zajednički fondovi. Individualni investitori su ljudi koji kupuju i prodaju hartije od vrednosti za sebe, obično preko brokerskog računa. Oni se takođe nazivaju maloprodajnim investitorima i mogu predstavljati svakoga ko je podstaknut da investira u lične ciljeve, kao što je planiranje penzionisanja ili štednja za obrazovanje svoje dece.",
-                    "img": "src/assets/4-6.jpg",
+                    "img": "/assets/4-6.jpg",
                     "alt": "Individual vs Institutional Investors"
                 }
             ]
         },
         {
             "id": "5",
-            "imgUrl": "src/assets/5.png",
+            "imgUrl": "/assets/5.png",
             "altTxt": "Ikonica",
             "naslov": "Korporativne finansije",
             "opis": "Šta je kompanija, Važnost korporativnih finansija, Stejkholderi kompanije, Investitori",
             "content": [
                 {
                     "txt": "Preduzeće je pravno lice koje formira jedno lice ili grupa ljudi koji zajedno rade na postizanju određenog cilja. U zavisnosti od vrste posla koji kompanija namerava da obavlja, strukturisana je kao partnerstvo, vlasništvo ili korporacija. Kompanije mogu biti u privatnom vlasništvu (u vlasništvu privatnih investitora) ili u javnom vlasništvu (u vlasništvu javnosti). Kompanija takođe može biti organizacija vođena volonterima, koja je poznata kao neprofitna. Po zakonu, kompanije imaju prava i obaveze kao što su - poseduju imovinu, pozajmljuju i/ili pozajmljuju novac, tuže ili budu tuženi. Kompanija je pravno lice odvojeno i različito od pojedinaca koji u nju ulažu.",
-                    "img": "src/assets/5-1.jpg",
+                    "img": "/assets/5-1.jpg",
                     "alt": "What is a company?"
                 },
                 {
                     "txt": "Korporativne finansije su oblast finansija koja uključuje korporativne strukture, finansiranje i postizanje prinosa za akcionare. Cilj je da se maksimizira vrednost poslovanja planiranjem i primenom strategija za postizanje profitabilnosti. Korporativne finansije se fokusiraju na tri glavne oblasti: investicije, finansiranje i prinos akcionara. Investicije se fokusiraju na to kako se korporativne finansije bave alokacijom resursa kompanije da bi se ostvario najveći prinos uz određenu količinu rizika. Na primer, na kojim projektima dalje raditi. Finansiranje se odnosi na upravljanje sredstvima preduzeća, dugom i drugim direktnim finansijskim upravljanjem preduzeća. Prinosi akcionara su fokus dividendi i finansija reinvestiranih u poslovanje.",
-                    "img": "src/assets/5-2.jpg",
+                    "img": "/assets/5-2.jpg",
                     "alt": "The Importance of Corporate Finance"
                 },
                 {
                     "txt": "Stejkholderi kompanije su oni koji utiču ili su pogođeni performansama i odlukama kompanije i njenog poslovanja. Zainteresovane strane kompanije mogu biti interne ili eksterne u odnosu na kompaniju. Oni uključuju akcionare, zaposlene, poverioce, kupce, dobavljače, odbor direktora i regulatore. Dok akcionari imaju finansijski interes u kompaniji, zainteresovane strane mogu ili ne moraju. Takođe je od ključne važnosti znati da se interesi svih zainteresovanih strana možda neće uvek uskladiti i da mogu izazvati sukob interesa. Moguće je da se zainteresovane strane sukobljavaju jedni s drugima, pa čak i da budu štetne za kompaniju.",
-                    "img": "src/assets/5-3.jpg",
+                    "img": "/assets/5-3.jpg",
                     "alt": "Company Stakeholders"
                 },
                 {
                     "txt": "Investitor je osoba ili entitet koji jednostavno pozajmljuje (obavezuje) kapital kompaniji dok očekuje da će dobiti finansijski povrat na dugi rok. Kada kompanija započne rad ili želi da se proširi, potrebno joj je finansiranje (kapital) da pokrije svoje poslovanje. Vlasnici kompanije mogu se obratiti investitorima i prodati deo kompanije u zamenu za kapital za finansiranje ovih operacija. Investitor može da investira u širok spektar investicionih opcija ili finansijskih instrumenata, uključujući privatne kompanije, akcije javnih preduzeća, fjučerse, dužničke hartije od vrednosti, valutu, nekretnine, penzione planove, itd. Nisu svi investitori jednaki. Individualni investitori su često jedna osoba i mogu kupiti javne hartije od vrednosti. Institucionalni investitori su kompanije ili ljudi koji imaju mnogo više opcija za ulaganje, kao što su hedž fondovi ili privatni kapital.",
-                    "img": "src/assets/5-4.jpg",
+                    "img": "/assets/5-4.jpg",
                     "alt": "Investors"
                 }
             ]
         },
         {
             "id": "6",
-            "imgUrl": "src/assets/6.png",
+            "imgUrl": "/assets/6.png",
             "altTxt": "Ikonica",
             "naslov": "Osnove trgovanja",
             "opis": "Dnevna trgovina, Spread, Troškovi trgovanja, Sati trgovanja, Poslije radnog vremena",
             "content": [
                 {
                     "txt": "Dnevno trgovanje se odnosi na proces kupovine i prodaje hartija od vrednosti (kao što su akcije) u kratkom vremenskom periodu. Dnevni trgovac pokušava da profitira od kratkoročnih fluktuacija cena. S druge strane, ulaganje je dugoročna obaveza kupovine i držanja hartije od vrednosti. Jednog dana trgovci proučavaju detalje specifične za kompaniju kako bi im pomogli da odluče da li će cena akcija kompanije porasti ili pasti. Pored toga, oni su takođe zainteresovani za razumevanje širenja jer ih informiše koliko je lako kupiti ili prodati imovinu. Alternativno, drugi trgovci koriste istorijske podatke o kretanju cene sredstva da predvide njegovo buduće kretanje. Ovo se zove tehnička analiza. Ovo su dve uobičajene strategije trgovanja; postoji mnogo drugih koje trgovci koriste i mogu istražiti.",
-                    "img": "src/assets/6-1.jpg",
+                    "img": "/assets/6-1.jpg",
                     "alt": "Day Trading"
                 },
                 {
                     "txt": "Raspon ponude i potražnje je razlika između licitirane i tražene cene hartije od vrednosti. Ponuda je maksimalna cena koju je kupac spreman da plati za hartiju od vrednosti. Tražena cena je minimum koji je prodavac spreman da prihvati za hartiju od vrednosti. Spred se koristi za merenje likvidnosti trgovačke hartije od vrednosti. Obaveštava trgovce koliko je lako kupiti ili prodati imovinu. Uski raspon implicira da je sredstvo lako prodati, dok širi raspon ukazuje da je sredstvo teško prodati. Raspon bid-ask takođe predstavlja profit market mejkera. Važno je napomenuti da se spred može značajno povećati tokom perioda neizvesnosti tržišta. Ovo uzrokuje nelikvidnost na tržištu. To znači da se akcijama neće trgovati sve dok se ne dogodi podudaranje između cene koju je kupac spreman da kupi i cene koju je prodavac voljan da proda suzi na prihvatljiv nivo. Market mejker je kompanija ili pojedinac (npr. brokerska firma) koji obezbeđuje cenu ponude i traženja u hartiji od vrednosti kojom se trguje.",
-                    "img": "src/assets/6-2.jpg",
+                    "img": "/assets/6-2.jpg",
                     "alt": "Spread"
                 },
                 {
                     "txt": "Trgovanje uvek ima povezane troškove. Troškovi trgovanja mogu uključivati posredničke naknade, naknade za održavanje, provizije i druge varijabilne naknade. Bez odgovarajućeg nadzora, ovi troškovi mogu brzo da umanje povrat ulaganja. Čak i trgovine koje se nude naizgled besplatno, i dalje imaju troškove povezane sa njima. Ove troškove kompanija obično apsorbuje zbog različitih tokova prihoda koje generišu njihovi korisnici. Zbog toga je čitanje odredbi i uslova, kada se registrujete na brokerski račun, od suštinskog značaja za razumevanje potencijalnog povrata.",
-                    "img": "src/assets/6-3.jpg",
+                    "img": "/assets/6-3.jpg",
                     "alt": "Costs of Trading"
                 },
                 {
                     "txt": "Berze su odredile sate svakog radnog dana kada investitori mogu da trguju akcijama. To se naziva trgovačkim satima. U SAD, redovno radno vreme za Njujoršku berzu (NISE) i Nasdak je između 9:30 i 16:00. ET (bez praznika na berzi). U dane ranog zatvaranja (obično neposredno pre ili posle praznika), redovno trgovanje se završava u 13:00 ET. Postoje tri vremenska perioda (tržišta) kada se akcijama može trgovati: pre-market (4:00 do 9:30 ET), redovno tržište (9:30 i 16:00 ET) i tržište nakon radnog vremena (16:00 do 20:00 ET). Kada se trgovanje odvija van redovnog radnog vremena, to se naziva trgovanje van radnog vremena. Obično postoji manja likvidnost, manji obim i veća volatilnost u trgovanju pre i posle radnog vremena nego tokom redovnih tržišnih sati.",
-                    "img": "src/assets/6-4.jpg",
+                    "img": "/assets/6-4.jpg",
                     "alt": "Trading Hours"
                 },
                 {
                     "txt": "Izvan redovnog radnog vremena (9:30 do 16:00 ET za NISE i Nasdak), postoji i tržište nakon radnog vremena koje se proteže od 16:00. do 20:00 časova Tokom ovog perioda, investitori su u mogućnosti da trguju akcijama; međutim, tržište posle radnog vremena ima tendenciju da bude nestabilnije jer je manje likvidno i ima manji obim od redovnih sati trgovanja. Da bi izvršio trgovinu nakon radnog vremena, investitor treba da koristi elektronsku komunikacionu mrežu (ECN). Kompjuterizovani sistem, ECN, usklađuje naloge zasnovane na ograničenim cenama direktno potencijalnim kupcima, tako da se trgovine mogu obavljati privatno i bez ikakvog učešća treće strane. Investitori mogu da koriste samo ograničene naloge za kupovinu ili prodaju akcija. ECN-ovi zarađuju novac tako što naplaćuju provizije za svaku trgovinu, pored naknada za pristup, što može biti skupo za investitora i može uticati na njihov prinos.",
-                    "img": "src/assets/6-5.jpg",
+                    "img": "/assets/6-5.jpg",
                     "alt": "After-Hours"
                 }
             ]
