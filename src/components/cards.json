@@ -203,6 +203,123 @@
                     "alt": "After-Hours"
                 }
             ]
+        },
+        {
+            "id": "7",
+            "imgUrl": "/assets/7.png",
+            "altTxt": "Ikonica",
+            "naslov": "Sve o akcijama",
+            "opis": "Berza, obične akcije, preferencijalne akcije, dividende, cene akcija",
+            "content": [
+                {
+                    "txt": "Berza je mesto gde javnost može da kupuje i prodaje akcije kompanija kojima se javno trguje i druge finansijske hartije od vrednosti. Javna preduzeća prodaju akcije javnosti kako bi prikupila sredstva za finansiranje svog rasta i poslovanja. Investitori koji žele da kupuju i prodaju akcije sastaju se (virtuelno) na berzi da bi trgovali njima (elektronski). Iako se termin akcija odnosi na kapital, berze često trguju i drugim finansijskim sredstvima, kao što su obveznice, ETF-ovi (fondovi kojima se trguje na berzi) i derivati zasnovani na valutama i robi. Berza je bezbedno okruženje, kojim pažljivo upravljaju i kontrolišu vladine agencije kako bi se obezbedila transparentnost i fer cene. Ponuda novih akcija se dešava na primarnom tržištu. Kada investitori kupuju i prodaju akcije, to se dešava na sekundarnom tržištu.",
+                    "img": "/assets/7-1.jpg",
+                    "alt": "Stock Market"
+                },
+                {
+                    "txt": "Obične akcije su vrsta akcija koje investitoru daju vlasnička prava u kompaniji. Nakon kupovine običnih akcija u kompaniji, investitoru je dozvoljeno da učestvuje u izboru odbora direktora i glasa o važnim korporativnim pitanjima, poput kompenzacionog paketa ključnih rukovodilaca. Često se zajedničkim akcionarima može ponuditi opcija zastupništva za predstojeće glasanje. Dividenda se može ponuditi akcionarima, ali nije zagarantovana. U ovom slučaju prvo se plaćaju vlasnici obveznica i duga, zatim preferirani akcionari, a obični akcionari se isplaćuju poslednji. U nekim slučajevima možda neće ostati sredstava nakon što su svi ostali u potpunosti plaćeni. Ovo je deo rizika kupovine običnih akcija.",
+                    "img": "/assets/7-2.png",
+                    "alt": "Common Shares"
+                },
+                {
+                    "txt": "Preferentne akcije su kategorija vlasništva koja kombinuje aspekte i obveznica i običnih akcija. Oni dolaze sa fiksnim skupom redovnih dividendi (slično obveznicama) i nude udeo (vlasništvo) u kompaniji. Međutim, za razliku od običnih akcija, kupovina preferencijalnih akcija u kompaniji ne dolazi sa pravom glasa. Kao rezultat toga, preferencijalne akcije predstavljaju hibridnu finansijsku sigurnost pozicioniranu između običnih akcija i obveznica. Iako ne dozvoljava vlasniku da glasa o bilo kom korporativnom pitanju, prioritetni akcionari imaju prioritet u slučaju isplate dividende, pa čak iu slučaju bankrota. To znači da povlašćeni akcionari dobijaju svoje dividende pre običnih akcionara, a u slučaju bankrota biće isplaćene pre običnih akcionara, koji mogu izgubiti sva svoja ulaganja.",
+                    "img": "/assets/7-3.jpg",
+                    "alt": "Preferred Shares"
+                },
+                {
+                    "txt": "Profitabilna kompanija mora da donese dve odluke. Zadržite profit i povećajte ili podelite deo sa vlasnicima akcija. Dividende su način na koji kompanije raspodeljuju profit svojim akcionarima. Tradicionalno specifične industrije i zrele kompanije imaju veću vjerovatnoću da imaju jake tokove novca i vjerovatno će isplatiti dividende investitorima. Odbor kompanije će glasati o tome koliko i kada da ponudi dividendu. Najčešće je tromesečno, ali se dešavaju polugodišnje ili godišnje dividende. Prinos i učestalost su uvek podložni promenama. Prinos od dividende obaveštava investitore o procentu po ceni akcije koji će biti isplaćen kao isplata dividende. Postoje dva važna datuma kada kompanija objavljuje dividendu. Datum evidencije je dan kada kompanija evidentira svoje akcionare. Morate biti akcionar na ovaj datum da biste primili isplatu dividende. Datum eks-dividende je za tržište da zatvori nove kupce od primanja dividende. Akcionar će dobiti dividendu ako poseduje akcije najmanje jedan dan PRE datuma Ek-dividende. Ne možete kupiti akcije kompanije na datum ek dividende i dobiti poslednju objavljenu dividendu.",
+                    "img": "/assets/7-4.jpg",
+                    "alt": "Dividends"
+                },
+                {
+                    "txt": "Cene akcija su vođene ponudom i potražnjom. Kompanije imaju fiksni broj akcija na otvorenom tržištu, koje kupuju i prodaju investitori širom sveta. Ako investitor želi da kupi akcije kompanije, moraće da plati minimalnu cenu koju je prodavac spreman da prihvati. Po istom principu, prodavac će nastojati da proda svoje akcije po najvišoj ceni koju je kupac spreman da plati. Ako postoji velika potražnja za akcijama određene kompanije, prodavci će imati više opcija za prodaju. Istovremeno, kupci će morati da se takmiče sa drugim kupcima za kupovinu akcija. Ovo podiže cenu akcija. Zbog toga, kada kompanija izađe sa dobrim vestima, cene imaju tendenciju da rastu. S druge strane, ako potražnja padne, prodavci mogu biti primorani da prihvate nižu cenu.",
+                    "img": "/assets/7-5.png",
+                    "alt": "Stock Prices"
+                }
+            ]
+        },
+        {
+            "id": "8",
+            "imgUrl": "/assets/8.png",
+            "altTxt": "Ikonica",
+            "naslov": "Neto vrednost objašnjena",
+            "opis": "Izvori prihoda, lična imovina, likvidna u odnosu na nelikvidna imovina, raspoloživa u odnosu na diskrecioni prihod, lične obaveze, lična neto vrednost, odlazak u penziju",
+            "content": [
+                {
+                    "txt": "Izvori prihoda odnose se na različite načine na koje ljudi mogu zaraditi novac. Većina ljudi ostvaruje prihod radeći za platu ili sa punim radnim vremenom, sa skraćenim radnim vremenom ili kao preduzetnik. Ali takođe možete zaraditi prihod kroz investicije, strastvene projekte ili čak kroz slavu na društvenim mrežama. Danas postoji više načina da zaradite novac nego ikada ranije i to možete učiniti pasivno, aktivno ili oboje. Možete iznajmiti garsonijeru u svojoj kući ili započeti kurs kuvanja on-line. Izazovite sebe da razmislite o tome kako biste mogli da proširite svoj potencijal prihoda i možda se čak i malo zabavite radeći to.",
+                    "img": "/assets/8-1.jpg",
+                    "alt": "Sources of Income"
+                },
+                {
+                    "txt": "Lična imovina je bilo šta od vrednosti u vlasništvu pojedinaca. Oni uključuju gotovinu i gotovinske ekvivalente, tekuće i štedne račune, račune na tržištu novca i imovinu uključujući kuće, kućni nameštaj, vozila i nakit. Investicije su takođe lična imovina uključujući obveznice, zajedničke fondove, anuitete, penzione planove i penzije. Imati jasan osećaj vaše lične imovine je važno da biste razumeli vašu ukupnu neto vrednost koja na kraju daje širu sliku vašeg ukupnog finansijskog blagostanja.",
+                    "img": "/assets/8-2.jpg",
+                    "alt": "Personal Assets"
+                },
+                {
+                    "txt": "Sredstva koja se lako i brzo mogu kupiti i prodati u gotovinu nazivaju se likvidna sredstva. Nasuprot tome, nelikvidnoj imovini je potrebno više vremena za kupovinu i prodaju. Likvidna sredstva uključuju gotovinu, akcije i račune na tržištu novca. Nelikvidna sredstva obuhvataju kuće, vozila, antikvitete i drugu imovinu koja zahteva pronalaženje kupca da bi se pretvorila u gotovinu i imala premiju nelikvidnosti koja će često obezbediti dodatni prinos. Važno je posedovati uravnoteženu kombinaciju likvidnih i nelikvidnih sredstava. Likvidna sredstva se mogu koristiti za hitne i kratkoročne potrebe, dok su nelikvidna stabilnija i korisnija za dugoročne finansijske potrebe i za diversifikaciju.",
+                    "img": "/assets/8-3.png",
+                    "alt": "Liquid vs. Illiquid Assets"
+                },
+                {
+                    "txt": "Dohodak obično podleže porezu – bilo da se radi o porezu na dohodak, porezu na kapitalnu dobit ili porezu na zarade. Vaš prihod „nakon oporezivanja“ naziva se raspoloživi prihod, koji se troši na potrepštine, uključujući hranu, stanovanje i prevoz. Prihod koji ostaje nakon plaćanja vaših potrepština naziva se diskrecioni prihod. Jednostavno, diskrecioni prihod je ono što biste koristili za potrebe, nakon što vaš raspoloživi prihod pokrije vaše potrebe. Raspoloživi prihod je uvek veći od diskrecionog prihoda i varira od osobe do osobe.",
+                    "img": "/assets/8-4.png",
+                    "alt": "Disposable vs. Discretionary Income"
+                },
+                {
+                    "txt": "Lične obaveze su finansijske obaveze pojedinaca. Drugim rečima, ovo su stvari koje dugujete i koje ćete morati da otplatite sada ili u budućnosti. Oni uključuju kredite za automobile, hipoteke ili iznajmljivanje, dugove kreditnih kartica, mesečne račune za komunalije, studentske kredite, investicione kredite i druge razne obaveze. Razumevanje vaše lične imovine i obaveza će vam pomoći da odredite svoju neto vrednost. Što je još važnije, oblikuje vaš kreditni profil i vašu sposobnost da preuzmete dodatne finansijske obaveze kada vam je potrebno ili želite.",
+                    "img": "/assets/8-5.png",
+                    "alt": "Personal Liabilities"
+                },
+                {
+                    "txt": "Razlika između imovine i obaveza pojedinca naziva se njihovom ličnom neto vrednošću. Finansijske institucije često koriste ličnu neto vrednost da bi odredile finansijski položaj pojedinca. Naravno, vaša neto vrednost može da se promeni ako se vaše finansijske okolnosti promene. Lična neto vrednost je pozitivna ako je vaša lična imovina veća od vaših ličnih obaveza. To znači da posedujete više nego što dugujete i da ste finansijski jaki. S druge strane, ako je vaša lična imovina manja od vaših obaveza, vaša lična neto vrednost je negativna. Praćenje vaše neto vrednosti može vam pomoći da procenite da li je preuzimanje novog duga razumna stvar ili morate da izvršite prilagođavanja svog ličnog finansijskog plana.",
+                    "img": "/assets/8-6.jpg",
+                    "alt": "Personal Net Worth"
+                },
+                {
+                    "txt": "Penzionisanje je tačka u vašem životu kada prestanete da aktivno zarađujete i počnete da živite od novca koji ste akumulirali tokom svojih radnih godina. Veoma je važno da planirate odlazak u penziju i razumete kako ćete živeti život kakav želite da živite u kasnijim godinama. U svakoj zemlji postoji propisana starosna granica za odlazak u penziju. Međutim, možete izabrati da se penzionišete pre nego što dostignete starosnu granicu za penzionisanje (iako bi to moglo da utiče na vaše penzijske beneficije), a na mnogim mestima možete izabrati da nastavite da radite duže. Penzioneri obično primaju penziju od svojih poslodavaca i od vlade kada odu u penziju. Međutim, ove beneficije možda neće u potpunosti pokrivati vaš željeni kvalitet života i možda će ih trebati dopuniti ličnom štednjom, investicijama ili privatnim penzionim planom. Dobra je ideja da rano počnete da štedite za penziju i da zauzmete spor i stalan pristup planiranju kako želite da živite u kasnijim godinama.",
+                    "img": "/assets/8-7.jpg",
+                    "alt": "Retirement"
+                }
+            ]
+        },
+        {
+            "id": "9",
+            "imgUrl": "/assets/9.png",
+            "altTxt": "Ikonica",
+            "naslov": "Sve o dugu",
+            "opis": "Finansijska sloboda, obezbeđeni naspram neobezbeđenih zajmova, lični zajmovi naspram poslovnih zajmova, dobar dug naspram lošeg duga, odnos duga i prihoda, otplata duga",
+            "content": [
+                {
+                    "txt": "Finansijska sloboda je stanje koje postižete kada imate dovoljno novca, ušteđevine, investicija i pouzdanog izvora prihoda da živite udobno. Osigurava da možete sebi priuštiti životni stil koji vi i vaša porodica želite, znajući da imate pozitivnu neto vrijednost koja vam omogućava da ispunite svoje finansijske obaveze. Finansijska sloboda ne dolazi nužno lako ili brzo. Za postizanje finansijske nezavisnosti potrebno je znanje, iskustvo i strpljenje. Postavljanje finansijskih ciljeva i preduzimanje merljivih koraka za njihovo postizanje dok odgovorno upravljate prihodima, rashodima i dugovima su od suštinskog značaja na vašem putu ka finansijskoj slobodi.",
+                    "img": "/assets/9-1.jpg",
+                    "alt": "Financial Freedom"
+                },
+                {
+                    "txt": "Jedina stvarna razlika između obezbeđenog zajma i neobezbeđenog kredita je kolateral (vrednost imovine). To znači da ako zajmoprimac ne otplati obezbeđeni zajam, zajmodavac može da preuzme imovinu koja se koristi kao kolateral da bi im nadoknadio gubitak. Neosigurani krediti ne zahtevaju nikakav kolateral i odobravaju se samo na osnovu kreditnog profila osobe. Pošto zajmodavac preuzima veći rizik sa neobezbeđenim kreditom, oni obično imaju višu kamatnu stopu od obezbeđenih zajmova. Hipoteke i krediti za automobile su odlični primeri obezbeđenih kredita, dok su kreditne kartice i lični krediti uglavnom neobezbeđeni.",
+                    "img": "/assets/9-2.jpg",
+                    "alt": "Secured vs. Unsecured Loans"
+                },
+                {
+                    "txt": "Lični zajam uzima fizičko lice za lične ili poslovne potrebe, dok poslovni kredit preduzeće uzima samo u poslovne svrhe. Lični krediti se mogu koristiti za bilo šta, od renoviranja kuće do kupovine kuće i automobila do finansiranja poslovnih potreba. Obično dolaze sa fleksibilnim uslovima, minimalnom dokumentacijom i brzom obradom, a relativno su jednostavni za nabavku za osobu sa dobrom kreditnom istorijom. Poslovni krediti su, međutim, bolja alternativa za ljude koji ne žele da mešaju svoje lične i poslovne račune. Ovaj novac se može koristiti samo za rast i proširenje poslovanja, uključujući kupovinu opreme, zapošljavanje zaposlenih, marketing i druge troškove vezane za poslovanje.",
+                    "img": "/assets/9-3.png",
+                    "alt": "Personal Loans vs Business Loans"
+                },
+                {
+                    "txt": "Dug se odnosi na novac koji duguju zajmodavac i zajmoprimac, bilo kao pojedinci ili kompanije. Međutim, nisu svi dugovi loši. Dug koji ste preuzeli da biste završili školovanje ili kupili dom mogao bi da poboljša vaš kvalitet života, da vam pomogne da se profesionalno razvijete i povećate vaše šanse da povećate svoju neto vrednost u budućnosti. Neki oblici duga mogu pomoći u stvaranju daljeg prihoda i povećanju vaše neto vrednosti tokom vremena. Ovi primeri bi se smatrali dobrim dugom. Računi za kreditne kartice i lični zajmovi koji se koriste za dopunu vašeg diskrecionog prihoda smatraju se lošim dugovanjima. Oni sugerišu da neko živi iznad svojih mogućnosti i veća je verovatnoća da će biti uhvaćen u spiralu duga.",
+                    "img": "/assets/9-4.png",
+                    "alt": "Good Debt vs. Bad Debt"
+                },
+                {
+                    "txt": "Odnos duga i prihoda meri sposobnost zajmoprimca da otplati zajmove. Zajmodavci ga koriste da uporede otplate mesečnih rata sa ukupnim mesečnim prihodima zajmoprimaca i da mere rizik pozajmljivanja. Odnos duga i prihoda izračunava se deljenjem mesečnih otplata duga sa neto mesečnim prihodom. Niži odnos duga i prihoda ukazuje na to da zajmoprimac ima dovoljno prihoda da pokrije svoje mesečne rate duga. Međutim, veći odnos duga i prihoda odražava nemogućnost da se efikasno brine o mesečnim otplatama duga. U proseku, stručnjaci predlažu 20% kao zdrav odnos duga i prihoda; međutim, standardi za prihvatljiv odnos će se razlikovati od zajmodavca do zajmodavca.",
+                    "img": "/assets/9-5.jpg",
+                    "alt": "Debt-to-Income Ratio"
+                },
+                {
+                    "txt": "Kako znate kada imate previše dugova? Ako osećate da se vaši prihodi i rashodi ne pomeraju, to ukazuje da je pregled vaših ličnih finansija u redu. Ako otkrijete da imate previše dugova, možda je vreme da razmislite o najboljim opcijama za otplatu duga. Idealan način za početak je da prvo otplatite dugove sa višim kamatnim stopama kako biste ograničili iznos kamate koji se vremenom može povećati. Ako imate više duga nego što možete da priuštite, razmislite o konsolidacionom zajmu, grupisanju duga u jedno plaćanje i kamatnu stopu. Ovo će vam omogućiti da izvršite jednu mesečnu uplatu i pomoći će vam da osetite veću kontrolu da biste se fokusirali na buduće ciljeve.",
+                    "img": "/assets/9-6.jpg",
+                    "alt": "Paying Down Debt"
+                }
+            ]
         }
     ]
 }
